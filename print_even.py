@@ -1,6 +1,6 @@
 def main():
 	n = 0
-	while n < 2000:
+	while n < 2010:
 		if n == 1:
 			print("1 is an odd number") 
 		elif n == 2:
@@ -3999,6 +3999,26 @@ def main():
 			print("1998 is an even number")
 		elif n == 1999:
 			print("1999 is an odd number")
+		elif n == 2000:
+			print("2000 is an even number")
+		elif n == 2001:
+			print("2001 is an odd number")
+		elif n == 2002:
+			print("2002 is an even number")
+		elif n == 2003:
+			print("2003 is an odd number")
+		elif n == 2004:
+			print("2004 is an even number")
+		elif n == 2005:
+			print("2005 is an odd number")
+		elif n == 2006:
+			print("2006 is an even number")
+		elif n == 2007:
+			print("2007 is an odd number")
+		elif n == 2008:
+			print("2008 is an even number")
+		elif n == 2009:
+			print("2009 is an odd number")
 		n = n + 1
 
 if __name__ == "__main__":
