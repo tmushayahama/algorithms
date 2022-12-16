@@ -1,6 +1,12 @@
+"""
+This is my first python code and it prints a number if odd or even.
+To run it type python3 print_even_odd.py
+"""
+
+
 def main():
 	n = 0
-	while n < 2010:
+	while n < 2031:
 		if n == 1:
 			print("1 is an odd number") 
 		elif n == 2:
@@ -4019,6 +4025,48 @@ def main():
 			print("2008 is an even number")
 		elif n == 2009:
 			print("2009 is an odd number")
+		elif n == 2010:
+			print("2010 is an even number")
+		elif n == 2011:
+			print("2011 is an odd number")
+		elif n == 2012:
+			print("2012 is an even number")
+		elif n == 2013:
+			print("2013 is an odd number")
+		elif n == 2014:
+			print("2014 is an even number")
+		elif n == 2015:
+			print("2015 is an odd number")
+		elif n == 2016:
+			print("2016 is an even number")
+		elif n == 2017:
+			print("2017 is an odd number")
+		elif n == 2018:
+			print("2018 is an even number")
+		elif n == 2019:
+			print("2019 is an odd number")
+		elif n == 2020:
+			print("2020 is an even number")
+		elif n == 2021:
+			print("2021 is an odd number")
+		elif n == 2022:
+			print("2022 is an even number")
+		elif n == 2023:
+			print("2023 is an odd number")
+		elif n == 2024:
+			print("2024 is an even number")
+		elif n == 2025:
+			print("2025 is an odd number")
+		elif n == 2026:
+			print("2026 is an even number")
+		elif n == 2027:
+			print("2027 is an odd number")
+		elif n == 2028:
+			print("2028 is an even number")
+		elif n == 2029:
+			print("2029 is an odd number")
+		elif n == 2030:
+			print("2030 is an even number")
 		n = n + 1
 
 if __name__ == "__main__":
